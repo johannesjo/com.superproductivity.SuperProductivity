@@ -9,16 +9,28 @@
     <id>com.superproductivity.SuperProductivity</id>
   </provides>
   <description>
-    <p>Organize your daily tasks in one place while making time tracking a lot less annoying. Super Productivity is a ToDo List / Time Tracker / Personal Jira Task Manager for Linux, MacOS and Windows aimed at reducing the time you spend with repetitive tasks and to provide you with a place to collect all the information you need to do your job.</p>
+    <h1>🚀 Boost Your Productivity with the Ultimate To-Do & Time Management App! 🚀</h1>
+
+    <h2>🕐 Organize Tasks, Track Time, and Manage Your Todo List</h2>
+    <p>Effortlessly manage your <strong>todo</strong> list and track time spent on each task using advanced <strong>timeboxing</strong> techniques. Stay focused, prevent burnout, and keep your projects on track. Generate detailed <strong>timesheets</strong> and summaries for efficient work documentation.</p>
+
+    <h2>🌍 Seamlessly Integrate with Popular Tools</h2>
+    <p>Stay in control by integrating with <strong>Jira</strong>, <strong>GitHub</strong>, <strong>GitLab</strong>, <strong>OpenProject</strong>, and more. Track critical updates without being overwhelmed by notifications and filter what matters most to stay organized.</p>
+
+    <h2>✓ Supercharge Your Productivity</h2>
+    <p>Customize your workflow with powerful <strong>productivity</strong> helpers, including:</p>
     <ul>
-      <li>Plan, track &amp; summarize. Create time sheets and work summaries in a breeze to easily export them to your company's time tracking system.</li>
-      <li>Integrate with Jira, GitHub and GitLab. Auto import tasks assigned to you, plan the details locally, automatically create worklogs and get notified right away, when something changes.</li>
-      <li>Organize your project's data. Create notes, attach files or create bookmarks for links, files and even commands and have it all out of the way, once you're ready for the weekend.</li>
-      <li>Helps you to establish healthy habits. A break timer reminds to you, when it's time to step away. You also can collect personal metrics for yourself to see, which of your work routines need adjustments.</li>
-      <li>Stuck and procrastinating? No problem! Super Productivity's anti procrastination feature helps you to reconsider your options and a pomodoro timer is also always at hand.</li>
-      <li>Super Productivity does NOT collect any data and there are no user accounts or registration. It's free and open source and always will be.</li>
-      <li>And much more!</li>
+        <li><strong>Pomodoro timers</strong> for focused work</li>
+        <li><strong>Focus mode</strong> for distraction-free tasks</li>
+        <li>Self-evaluation tools to track progress</li>
+        <li>Break reminders to recharge effectively</li>
     </ul>
+
+    <h2>📅 Plan Your Day with Calendar Integration</h2>
+    <p>Turn your calendar events into actionable tasks and use the <strong>planner</strong> feature to visualize your day. Quickly organize your tasks and ensure nothing slips through the cracks.</p>
+
+    <h2>🔒 Privacy-Focused & Open Source</h2>
+    <p>Your data is yours. This app collects no data, requires no accounts, and ensures total <strong>privacy</strong>. It's a free and always will be!</p>
   </description>
   <releases>
     <release version="6.5.0" date="2021-03-05"/>
